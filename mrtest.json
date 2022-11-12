@@ -1,7 +1,7 @@
 {
-  "banner_admob": "ca-app-pub-3940256099942544/6300978111",
-  "inter_admob": "ca-app-pub-3940256099942544/6300978111",
-  "reword_admob": "ca-app-pub-3940256099942544/5224354917",
+  "banner_admob": "",
+  "inter_admob": "",
+  "reword_admob": "",
   "sdk_key": "",
   "banner_applovin": "",
   "inter_applovin": "",
@@ -11,7 +11,7 @@
   "inter_unity": "",
   "reword_unity":"",
   "banner_fan": "",
-  "inter_fan": "",
+  "inter_fan": "IMG_16_9_APP_INSTALL#2055172654872047_2055173088205337",
   "reword_fan":"",
 
   "urlimages":[
