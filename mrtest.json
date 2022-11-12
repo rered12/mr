@@ -1,0 +1,34 @@
+{
+  "banner_admob": "ca-app-pub-3940256099942544/6300978111",
+  "inter_admob": "ca-app-pub-3940256099942544/6300978111",
+  "reword_admob": "ca-app-pub-3940256099942544/5224354917",
+  "sdk_key": "",
+  "banner_applovin": "",
+  "inter_applovin": "",
+  "reword_applovin": "",
+  "game_id": "",
+  "banner_unity": "Banner_Android",
+  "inter_unity": "Interstitial_Android",
+  "reword_unity":"Rewarded_Android",
+  "banner_fan": "",
+  "inter_fan": "",
+  "reword_fan":"",
+
+  "urlimages":[
+    "https://drive.google.com/uc?export=download&id=1F8Ywo8UUBV32xv-y--AIIDNArIam0PuY",
+    "https://drive.google.com/uc?export=download&id=1ZEB0oXvKUHV_lWdjZPE8b1fdM0mHllkw",
+    "https://drive.google.com/uc?export=download&id=1jobbGoV4aFv5rOqcBYsDhdPufuQdJkFT",
+    "https://drive.google.com/uc?export=download&id=1np7U3UwInW4kZzsPigD5Wr6iTkicv3dz",
+    "https://drive.google.com/uc?export=download&id=1zBQy7kA8cQXkfQaT_c4vFCr2RhRsyF79",
+    "https://drive.google.com/uc?export=download&id=1zBQy7kA8cQXkfQaT_c4vFCr2RhRsyF79"
+    ],
+"textes":[
+  "AAAAAAAAA",
+  "AAAAAAAAAA",
+  "AAAAAAAAAA",
+  "AAAAAAAAAA",
+  "BBBBBBBBBB"
+  ],
+"QuiteTxt":"n"
+ 
+}
